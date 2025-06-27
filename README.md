@@ -5,7 +5,7 @@
 Me chamo Julia Preussler (Veiga), tenho 21 anos e sou natural do Rio Grande do Sul. Estou cursando Desenvolvimento de Software na BYU-Pathway.
 
 ---
-### 🤖 
+### 🤖 Languages
 <img 
     align="left" 
     alt="HTML"
