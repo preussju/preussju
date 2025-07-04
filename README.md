@@ -39,7 +39,15 @@ Me chamo Julia Preussler (Veiga), tenho 21 anos e sou natural do Rio Grande do S
     width="30px" 
     style="padding-right: 10px;"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+           
 <br/>
 <br/>
 
