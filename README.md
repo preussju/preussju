@@ -2,7 +2,7 @@
 
 **`Software Development`**
 
-Me chamo Julia Preussler (Veiga), tenho 21 anos e sou natural do Rio Grande do Sul. Estou cursando Desenvolvimento de Software na BYU-Pathway | I am Julia Preussler (Veiga), I am 21 and I am from Rio Grande do Sul, Brazil. I am studying Software Development at BYU-Pathway
+ I am Julia Preussler (Veiga), I am 21 and I am from Rio Grande do Sul, Brazil. I am studying Software Development at BYU-Pathway
 
 ---
 ### 🤖 Languages
